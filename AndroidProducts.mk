@@ -24,4 +24,6 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     aosp_redfin-userdebug \
     aosp_redfin_vf-userdebug \
-    kenvyra_redfin-userdebug
+    kenvyra_redfin-eng \
+    kenvyra_redfin-userdebug \
+    kenvyra_redfin-user
